@@ -1,4 +1,5 @@
-Merge Sorted Arrays:
+Merge Sorted Arrays
+
 Link: https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150
 
 Worst case : nums2 che element nums1 madhe takun sort karun takna
