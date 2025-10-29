@@ -10,7 +10,7 @@
 # max_char = None
 # 
 # for i in dict1.items():
-#     print(i) # here it will be a tuple of key value pair for that particular iteration 
+#     print(i) # here it will be a tuple of key value pair for that particular iteration (key , value)
 #     if i[1] > max_count:
 #         max_char = i[0]
 #         max_count = i[1]
